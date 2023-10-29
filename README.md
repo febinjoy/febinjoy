@@ -12,7 +12,16 @@ A software engineer with over 19 years of experience in designing and developing
 - LinkedIn: [Febin Joy | LinkedIn](https://www.linkedin.com/in/febinjoy)
 - Hashnode: [https://hashnode.com/@artofcoding](https://hashnode.com/@artofcoding)
 
-## My Recent Articles
+# Skills
+C# | VB.Net | Python | Java | ASP.Net | .Net Core | VC++ | JavaScript | TypeScript | React | WebSockets | SQL Server | MVC.Net | PostgreSQL | GraphQL | WPF | Entity Framework | NodeJS | 
+React | jQuery | Git | BPMN | 
+Unit Testing | LINQ | OOP | 
+Web Development | XML | JSON | WinForms | Microservices |
+Master Data Management | 
+Low Code Development | 
+Threat Modelling | Agile | Scrum
+
+# My Recent Articles
 <!-- HASHNODE:START -->
 - [Design Patterns : Factory and Factory method](https://artofcoding.dev/design-patterns-factory-and-factory-method)
 - [Design Patterns – Basics](https://artofcoding.dev/design-patterns-basics)
