@@ -13,6 +13,7 @@ A software engineer with over 19 years of experience in designing and developing
 - Hashnode: [https://hashnode.com/@artofcoding](https://hashnode.com/@artofcoding)
 
 # Skills
+
 C# | VB.Net | Python | Java | ASP.Net | .Net Core | VC++ | JavaScript | TypeScript | React | WebSockets | SQL Server | MVC.Net | PostgreSQL | GraphQL | WPF | Entity Framework | NodeJS | 
 React | jQuery | Git | BPMN | 
 Unit Testing | LINQ | OOP | 
