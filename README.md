@@ -24,6 +24,7 @@ Threat Modelling | Agile | Scrum
 
 # My Recent Articles
 <!-- HASHNODE:START -->
+- [Things to do after installing Fedora 40](https://artofcoding.dev/things-to-do-after-installing-fedora-40)
 - [Linux hardening for beginners](https://artofcoding.dev/linux-hardening-for-beginners)
 - [Design Patterns : Factory and Factory method](https://artofcoding.dev/design-patterns-factory-and-factory-method)
 - [Design Patterns – Basics](https://artofcoding.dev/design-patterns-basics)
