@@ -24,9 +24,9 @@ Threat Modelling | Agile | Scrum
 
 # My Recent Articles
 <!-- HASHNODE:START -->
+- [Introducing Brain Bank Obsidian vault!](https://artofcoding.dev/introducing-brain-bank-obsidian-vault)
 - [Things to do after installing Fedora 40](https://artofcoding.dev/things-to-do-after-installing-fedora-40)
 - [Linux hardening for beginners](https://artofcoding.dev/linux-hardening-for-beginners)
 - [Design Patterns : Factory and Factory method](https://artofcoding.dev/design-patterns-factory-and-factory-method)
 - [Design Patterns – Basics](https://artofcoding.dev/design-patterns-basics)
-- [14 Principles every developer should know](https://artofcoding.dev/14-principles-every-developer-should-know)
 <!-- HASHNODE:END -->
