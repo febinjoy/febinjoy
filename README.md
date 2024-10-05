@@ -4,7 +4,7 @@
 
 # About me
 
-A software engineer with over 19 years of experience in designing and developing solutions for various domains and industries with expertise in OOD, SOLID principles, Software Architecture, and Design patterns.
+A software engineer with over 20 years of experience in designing and developing solutions for various domains and industries with expertise in OOD, SOLID principles, Software Architecture, and Design patterns.
 
 - My blog: [https://artofcoding.dev](https://artofcoding.dev/)
 - Email: febinjoy@gmail.com
