@@ -24,6 +24,7 @@ Methodologies: Agile & Scrum, Test-Driven Development (TDD), Risk-Driven Design
 
 # My Recent Articles
 <!-- HASHNODE:START -->
+- [Building a Context-Aware Gemini CLI Workflow](https://artofcoding.dev/building-a-context-aware-gemini-cli-workflow)
 - [Series: Ubuntu home lab for developers](https://artofcoding.dev/series/ubuntu-home-lab-for-developers)
 - [Setting up a Linux terminal for productivity](https://artofcoding.dev/setting-up-a-linux-terminal-for-productivity)
 - [EndeavourOS - Gemini](https://artofcoding.dev/endeavouros-gemini)
