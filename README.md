@@ -28,22 +28,22 @@ I architect solutions that solve real-world problems—securely, scalably, and s
 
 ## 🛠 Skills & Technologies
 
-**Architecture & Leadership**  
+**🧱 Architecture & Leadership**  
 Enterprise Architecture, Design Patterns, Microservices, Technical Leadership, Risk Management, UML, BPMN, Mentoring
 
-**Cloud & DevOps**  
+**☁️ Cloud & DevOps**  
 Azure, AWS, Linux, RESTful APIs, Distributed Systems, CI/CD Pipelines, Performance Optimisation, SDLC
 
-**Security & Compliance**  
+**🔐 Security & Compliance**  
 Secure Software Development, SSDLC, Threat Modelling, Encryption, Incident Response, ISO 27001, HIPAA, Regulatory Audit
 
-**Languages & Frameworks**  
+**💻 Languages & Frameworks**  
 .NET (C#), Python, SQL Server, PostgreSQL, Entity Framework, NLog
 
-**Methodologies**  
+**📐 Methodologies**  
 Agile & Scrum, Test-Driven Development (TDD), Risk-Driven Design
 
-**Collaboration & Delivery**  
+**👨‍🏫 Collaboration & Delivery**  
 Stakeholder Engagement, Technical Team Leadership, Cross-Functional Collaboration, Documentation, Knowledge Transfer, Team Onboarding & Training
 
 ## ✍️ My Recent Articles
