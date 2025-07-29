@@ -4,10 +4,6 @@
 
 # Febin Joy
 
-Melbourne, Australia | [Email](mailto:febinjoy@outlook.com) | [LinkedIn](https://linkedin.com/in/febinjoy) | [Blog](https://artofcoding.dev) | [X](https://x.com/jofebin)
-
-## 🧑‍💻 About Me
-
 I'm a Technical Lead and Software Architect with 20+ years of experience designing secure, scalable distributed systems across cloud, hybrid, and on-prem environments. I specialise in enterprise platforms for highly regulated sectors such as mobility, healthcare, and critical operations.
 
 At **Smartrak**, I lead technical strategy and engineering for large-scale platforms like **PoolCar** and **Keyless Entry**, serving 300+ organisations across ANZ—including law enforcement, universities, and hospitals. I translate business-critical challenges into resilient, modern architectures that deliver:
